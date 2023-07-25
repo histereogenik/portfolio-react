@@ -3,7 +3,7 @@ import Titulo from '../../components/Titulo'
 const Sidebar = () => (
   <aside>
     <img src="https://github.com/histereogenik.png" />
-    <Titulo>Humberto Nacif</Titulo>
+    <Titulo fontSize={20}>Humberto Nacif</Titulo>
   </aside>
 )
 
