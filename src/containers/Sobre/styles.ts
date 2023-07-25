@@ -9,7 +9,8 @@ export const GithubSecao = styled.div`
     margin-left: 2px;
 
     @media (max-width: 768px) {
-      max-width: 100%
+      height: auto;
+      max-width: 100%;
     }
   }
 `
